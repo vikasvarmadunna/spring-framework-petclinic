@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ubuntu-latest
+pool: vikas-agent
 
 steps:
 - task: Maven@3
