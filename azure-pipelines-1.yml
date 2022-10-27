@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ip-172-31-17-122
+pool: ubuntu-20.04
 
 steps:
 - task: Maven@3
