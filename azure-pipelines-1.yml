@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: ubuntu-20.04
+pool: vikas-agent
 
 steps:
 - task: Maven@3
