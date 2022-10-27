@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: ubuntu-latest
+pool: vikas-agent
 
 steps:
 - task: Maven@3
