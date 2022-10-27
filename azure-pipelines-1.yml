@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: vikas-agent
+pool: deafult
 
 steps:
 - task: Maven@3
