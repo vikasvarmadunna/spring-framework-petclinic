@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: vikas-agent
+pool: ip-172-31-17-122
 
 steps:
 - task: Maven@3
