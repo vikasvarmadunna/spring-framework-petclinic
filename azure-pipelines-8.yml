@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool: nevergiveup
+pool: 
+  name: nevergiveup
 
 steps:
 - task: Maven@3
